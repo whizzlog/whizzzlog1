@@ -8,6 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel='stylesheet' type='text/css'>
 <link href="{{ asset('assetss/css/login.css') }}" rel="stylesheet" type="text/css" media="all"/>
+<link href="{{ captcha_layout_stylesheet_url() }}" type="text/css" rel="stylesheet">
 </head>
 <body>
 	<div class="container">
@@ -21,8 +22,8 @@
 		        <input type="text" name="email" id="user_name" placeholder="Your email" class="required loginUsername @error('email') is-invalid @enderror" style="width: 265px;"/>
         <input type="password" name="password" id="user_password" placeholder="Password" class="loginPassword required @error('password') is-invalid @enderror" style="width: 265px; margin-bottom: 0px;"/>
       
-	   <input type="text" autocomplete="off" name="cpt" id="cpt" placeholder="Captcha" class="required loginUsername " style="width: 265px;"/>
-	    <img src="cpt/indexeb78.html?PHPSESSID=gngu8bfkorhta7i24rmb9m5bg0">
+	   <div style="display: inline-block;">{!! captcha_image_html('ExampleCaptcha') !!}</div> 
+  <input type="text" id="CaptchaCode" name="CaptchaCode" placeholder="Enter Captcha Code"  class="required loginUsername" style="width: 265px; margin-bottom: 0px;">
 	   <!--<div id="nocaptcha" style="width: 265px; margin-bottom: 15px; margin-left: 20px;"></div>-->
 	  
         <div class="logControl">

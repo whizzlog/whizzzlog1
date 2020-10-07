@@ -1,59 +1,55 @@
+
 <!DOCTYPE HTML>
 <head>
 <title>DarkNet-Shop.CC</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel='stylesheet' type='text/css'>
-<link href="/templates/shop/css/style.css?v=1.02" rel="stylesheet" type="text/css" media="all"/>
-<link href="/css/plugins.css" rel="stylesheet" type="text/css" media="all"/>
-<link href="/css/tooltipster.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/templates/shop/js/jquery-1.9.0.min.js"></script>
-<script type="text/javascript" src="/templates/shop/js/functions.js?ver=2.7.84"></script>
-<script type="text/javascript" src="/templates/shop/js2/plugins/others/jquery.cookie.js"></script>
-<script type="text/javascript" src="/js/bootstrap.js"></script>
+<link href="http://localhost:8000/assetss/css/style.css?v=1.02" rel="stylesheet" type="text/css" media="all"/>
+<link href="http://localhost:8000/assetss/css/plugins.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="http://localhost:8000/assetss/css/tooltipster.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://localhost:8000/assetss/js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="http://localhost:8000/assetss/js/functions.js?ver=2.7.84"></script>
+<script type="text/javascript" src="http://localhost:8000/assetss/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://localhost:8000/assetss/js/bootstrap.js"></script>
  
 	
 </head>
 <body>
 <div id="wrapper" style="min-height:100%;">
-<div class="content">
-	<div class="header">
+	<div class="content">
+		<div class="header">
 
 
-  	  		<div class="wrap">
-				<div class="header_top">
-					<div class="logo">
-						<a href="/home.php"><img src="/templates/shop/images/logo.png" alt="" /></a>
-						<p style="color: white"> Welcome, whizzlog2020</p>
-					</div>
-						<div class="header_top_right">
-						<div class="search_box">
-							  	<span>Balance: $0.00</span><a href="deposit.php" class="deposit-buttom"></a>
-					     	
-					     		<div class="clear"></div>
-					     	</div>
-					</div>
-			     <div class="clear"></div>
-  		    </div>     
-  		    <div class="navigation">
+				<div class="wrap">
+					<div class="header_top">
+						<div class="logo">
+							<a href="/home.php"><img src="http://localhost:8000/assetss/images/logo.png" alt="" /></a>
+							<p style="color: white"> Welcome, oluyemodamola@gmail.com</p>
+						</div>
+							<div class="header_top_right">
+							<div class="search_box">
+									<span>Balance: $0.00</span><a href="http://localhost:8000/en/deposit" class="deposit-buttom"></a>
+								
+									<div class="clear"></div>
+								</div>
+						</div>
+					<div class="clear"></div>
+				</div>     
+				<div class="navigation">
   		    	<a class="toggleMenu" href="#">Menu</a>
 					<ul class="nav">
 						<li class="meny-hover-parent">
-														<a href="/banks.php" style="color:white;">>> BANKS+AN_RN !!!SALE!!!<<</a>
+														<a href="#" style="color:green;">BANKS</a>
 							
 														<ul class="menyhover">
-							<li><a href="/wf.php" >Wells Fargo</a></li>
-							<li><a href="/banks.php?bank=unifyfcu.com">unifyfcu.com</a></li><li><a href="/banks.php?bank=IBC.com">IBC.com</a></li><li><a href="/banks.php?bank=Greenstate.org">Greenstate.org</a></li><li><a href="/banks.php?bank=Vystar">Vystar</a></li><li><a href="/banks.php?bank=firstcitizens.com">firstcitizens.com</a></li><li><a href="/banks.php?bank=onpointcu.com">onpointcu.com</a></li><li><a href="/banks.php?bank=Umpquabank">Umpquabank</a></li><li><a href="/banks.php?bank=Citadelbanking.com">Citadelbanking.com</a></li><li><a href="/banks.php?bank=firstrepublic.com">firstrepublic.com</a></li><li><a href="/banks.php?bank=hillsbank.com">hillsbank.com</a></li><li><a href="/banks.php?bank=fnb-online.com">fnb-online.com</a></li><li><a href="/banks.php?bank=Chartway.com">Chartway.com</a></li><li><a href="/banks.php?bank=tcunet.com">tcunet.com</a></li><li><a href="/banks.php?bank=Onenevada.org">Onenevada.org</a></li><li><a href="/banks.php?bank=firstmarkcu.org">firstmarkcu.org</a></li><li><a href="/banks.php?bank=aplusfcu.org">aplusfcu.org</a></li><li><a href="/banks.php?bank=Cutx.org">Cutx.org</a></li><li><a href="/banks.php?bank=Applebank.com">Applebank.com</a></li><li><a href="/banks.php?bank=Campuscu.com">Campuscu.com</a></li><li><a href="/banks.php?bank=Unitedfcu.com">Unitedfcu.com</a></li><li><a href="/banks.php?bank=ucbi.com">ucbi.com</a></li><li><a href="/banks.php?bank=Citibank.com">Citibank.com</a></li><li><a href="/banks.php?bank=Santanderbank">Santanderbank</a></li><li><a href="/banks.php?bank=asbhawaii.com">asbhawaii.com</a></li><li><a href="/banks.php?bank=gtefinancial.org">gtefinancial.org</a></li><li><a href="/banks.php?bank=fhb.com">fhb.com</a></li><li><a href="/banks.php?bank=fnbo.com">fnbo.com</a></li><li><a href="/banks.php?bank=Simple.com">Simple.com</a></li><li><a href="/banks.php?bank=key.com">key.com</a></li><li><a href="/banks.php?bank=mysummit.bank">mysummit.bank</a></li><li><a href="/banks.php?bank=traviscu.org">traviscu.org</a></li><li><a href="/banks.php?bank=uhcu.org">uhcu.org</a></li><li><a href="/banks.php?bank=visionsfcu.org">visionsfcu.org</a></li>
-							<li><a href="/west.php" >West</a></li>
-							<li><a href="/navy.php" >Navy</a></li>
-							<li><a href="/boa.php" >Bank of America</a></li>
-							<li><a href="/regions.php">Regions</a></li>
-							<li><a href="/schwab.php">Schwab</a></li>
-							<li><a href="/key.php">Key</a></li>
-							<li><a href="/53com.php">53com</a></li>
-							<li><a href="/sccu.php">Sccu</a></li>
-							<li><a href="/lmcu.php">LmCU</a></li>
-							<li><a href="/td.php" >TD Bank</a></li>
+																															<li><a href="http://localhost:8000/en/1/logs">Centennial Bank</a></li>
+																															<li><a href="http://localhost:8000/en/2/logs">More Bank</a></li>
+																															<li><a href="http://localhost:8000/en/3/logs">Golden Rush</a></li>
+																															<li><a href="http://localhost:8000/en/4/logs">Love Bank</a></li>
+																						
+							
+							
 							</ul>
 						</li> 
 						
@@ -71,88 +67,31 @@
 						-->
 						
 						<li class="meny-hover-parent2">
-														<a href="#" style="color:green;">Credit Cards</a>
+														<a href="#" style="color:green;">Bank Logs</a>
 							
 														<ul class="menyhover2">
-								<li>
-																<a href="/co.php" >CreditOne VISA</a>
-								
-																</li> 
-								
-								<li>
-																<a href="/comc.php" >CreditOne MC</a>
-								
-																</li> 
-								
-								<li>
-																<a href="/merrick.php" >Merrick</a>
-							
-																</li> 
-								
-								<li>
-																<a href="/amex.php" >American Express</a>
-								
-																</li>
-								
-								<li>
-																<a href="/surge.php" >Surge</a>
-								
-																</li>
-								
-								<li>
-																<a href="/progress.php" >First Progress</a>
-								
-																</li>
-								
-								<li>
-																<a href="/indigo.php" >Indigo</a>
-								
-																</li>
-								
-								<li>
-																<a href="/opensky.php" >Open Sky</a>
-								
-																</li>
-								
-								<li>
-																<a href="/petal.php" >Petal</a>
-								
-																</li>
+																				<li>
+							<a href="http://localhost:8000/en/1/logs" >Centennial Bank</a>
+								</li>						
+																				<li>
+							<a href="http://localhost:8000/en/2/logs" >More Bank</a>
+								</li>						
+																				<li>
+							<a href="http://localhost:8000/en/3/logs" >Golden Rush</a>
+								</li>						
+																				<li>
+							<a href="http://localhost:8000/en/4/logs" >Love Bank</a>
+								</li>						
+															
 								
 							</ul>
 						</li>
 						
 						
-						<li class="meny-hover-parent2">
-														<a href="#" style="color:green;">Others</a>
-							
-														<ul class="menyhover2">
-								<li>
-																		<a href="/att.php" >ATT.com</a>
-									
-																	</li>
-								<li>
-																		<a href="/spectrum.php" >Spectrum</a>
-									
-																	</li>
-								
-								<li>
-																		<a href="/verizon.php" >Verizon+SQ</a>
-									
-																	</li>
-								
-								
-								
-								<li>
-																		<a href="/xfin.php" >XFINITY (comcast)</a>
-									
-																	</li>
-							</ul>
-						</li>	
-						
+					
 						
 						<li>
-									<a href="/my_item.php">Order history</a>
+									<a href="/my_item.php">Orders</a>
 									
 						</li>
 											
@@ -164,374 +103,309 @@
 									<a href="/deposit_history.php">Deposit history</a>
 									
 								</li>
-								<li>
-									<a href="/btc_history.php">BTC wallets history</a>
-
-								</li>
+							
 								
 								<li>
-									<a href="/my_account.php">Settings</a>
+									<a href="#">Settings</a>
 									
 								</li>
 								<li>
 									<a href="/">News</a>
 								</li>
 								<li>
-									<a href="logout.php">Logout</a>
+									<a href="#" onclick="event.preventDefault();
+									document.getElementById('logout-form').submit();">Logout</a>
+									<form id="logout-form" method="POST" action="http://localhost:8000/logout">
+										<input type="hidden" name="_token" value="abGYd4fShZyAkr3r5ou2UDnsZgCevwxCB3gXz2c6">									</form>
 								</li>
 							</ul>
 						</li>
 
 						
-						<li>
-							<a href="/ticket.php">Ticket</a>
-						</li>
+						
 						</ul>
 					 <span class="left-ribbon"> </span> 
       				 <span class="right-ribbon"> </span>    
-  		    </div>
-  		     <div class="header_bottom">
-			     
+  		    </div>				<div class="header_bottom">
+					
 
-	  	     <div class="clear"></div>
-	      </div>
-   		</div>
+				<div class="clear"></div>
+			</div>
+		</div>
 				
 		<div id="mini-cart"><a href="cart.php">My cart(<span>0</span>)</a></div>   </div>
 
+		<div class="wrap">
+	<div class="content-bottom-center" id="page_news">
+        <div class="whead">
+            <h6>Service News</h6>
+            <div class="clear"></div>
+        </div>
 
-	<div class="wrap">
-<div class="content-bottom-left" id="page_wf">
-        <div class="categories">
-            <ul>
-                <h3>Поиск</h3>
-                <form method="post" action="/banks.php">
-                    <li class="selector">Баланс</li>
-                    <select name="balance" style="margin: 3px">
-                       <option value="0-999999">Выберите баланс</option>
-                        <option value="0-99">0-100 (8)</option>
-                        <option value="100-499">100-500 (0)</option>
-                        <option value="500-999">500-1000 (0)</option>
-                        <option value="1000-2999">1000-3000 (0)</option>  
-						<option value="3000-4999">3000-5000 (1)</option>  	
-						<option value="5000-9999">5000-10 000 (0)</option>  
-						<option value="10000-14999">10 000-15 000 (4)</option> 
-						<option value="15000-24999">15 000-25 000 (0)</option>
-						<option value="25000-49999">25 000-50 000 (2)</option> 
-						<option value="50000-99999">50 000-100 000 (1)</option> 
-						<option value="100000-199999">100 000-200 000 (0)</option> 
-						<option value="200000-399999">200 000- 400 000 (0)</option>       
-						<option value="400000-9999999">400 000+ (0)</option>  						
-                  
-
-
-                    </select>
-					
-					<li class="selector">Банк</li>
-                    <select name="bank" style="margin: 3px">
-                       <option value="all">Выберите банк:</option>
-                        					   <option value="unifyfcu.com" >unifyfcu.com</option>  						
-											   <option value="IBC.com" >IBC.com</option>  						
-											   <option value="Greenstate.org" >Greenstate.org</option>  						
-											   <option value="Vystar" >Vystar</option>  						
-											   <option value="firstcitizens.com" >firstcitizens.com</option>  						
-											   <option value="onpointcu.com" >onpointcu.com</option>  						
-											   <option value="Umpquabank" >Umpquabank</option>  						
-											   <option value="Citadelbanking.com" >Citadelbanking.com</option>  						
-											   <option value="firstrepublic.com" selected="">firstrepublic.com</option>  						
-											   <option value="hillsbank.com" >hillsbank.com</option>  						
-											   <option value="fnb-online.com" >fnb-online.com</option>  						
-											   <option value="Chartway.com" >Chartway.com</option>  						
-											   <option value="tcunet.com" >tcunet.com</option>  						
-											   <option value="Onenevada.org" >Onenevada.org</option>  						
-											   <option value="firstmarkcu.org" >firstmarkcu.org</option>  						
-											   <option value="aplusfcu.org" >aplusfcu.org</option>  						
-											   <option value="Cutx.org" >Cutx.org</option>  						
-											   <option value="Applebank.com" >Applebank.com</option>  						
-											   <option value="Campuscu.com" >Campuscu.com</option>  						
-											   <option value="Unitedfcu.com" >Unitedfcu.com</option>  						
-											   <option value="ucbi.com" >ucbi.com</option>  						
-											   <option value="Citibank.com" >Citibank.com</option>  						
-											   <option value="Santanderbank" >Santanderbank</option>  						
-											   <option value="asbhawaii.com" >asbhawaii.com</option>  						
-											   <option value="gtefinancial.org" >gtefinancial.org</option>  						
-											   <option value="fhb.com" >fhb.com</option>  						
-											   <option value="fnbo.com" >fnbo.com</option>  						
-											   <option value="Simple.com" >Simple.com</option>  						
-											   <option value="key.com" >key.com</option>  						
-											   <option value="mysummit.bank" >mysummit.bank</option>  						
-											   <option value="traviscu.org" >traviscu.org</option>  						
-											   <option value="uhcu.org" >uhcu.org</option>  						
-											   <option value="visionsfcu.org" >visionsfcu.org</option>  						
-										
-                  </select>
-		
-                                            <li class="selector" style="margin: 3px">Количество товара на странице</a></li><select name="ipp" class="paginate_button"><option value="10">10</option>
-					<option value="25">25</option>
-					<option selected value="40">40</option>
-					<option value="100">100</option>
-					</select>
-
-                    
-
-                    <div>
-                        <input type="submit" value="Поиск"  class="mybutton">
-                        <div class="clear"></div>
+        <div class="news">
+            			
+                <div class="head_news">
+					<div class="title"><h5 class="pt20">UPDATE</h5></div>		
+                    <div class="infoRow">
+                        <span class="name"><strong>Admin</strong> says:</span>
+                        <span class="time">2020-09-10 22:39:47</span>
                     </div>
-                </form>
+					<div class="clear"></div>
+				</div>
+											<div class="text_news"><div><p><span style="font-size:22px"><strong><span style="color:#d35400">Chartway+AN_RN<br />
+							Citadelbanking+AN_RN<br />
+							FirstCitizens+AN_RN<br />
+							IBC+AN_RN<br />
+							UnifyFCU+AN_RN<br />
+							Asbhawaii+AN_RN<br />
+							CampusCU+AN_RN<br />
+							FNB+AN_RN<br />
+							Vystar+AN_RN<br />
+							Santander+AN_RN<br />
+							Comerica+AN_RN<br />
+							Gtefinancial+AN_RN_name<br />
+							Fhb+AN_RN_name<br />
+							FNBO+AN_RN_name<br />
+							Simple+AN_RN_name<br />
+							United Heritage+AN_RN<br />
+							Visions FCU+AN_RN<br />
+							Travis CU+RN_RN<br />
+							Summit Community bank+AN_RN<br />
+							Key+AN_RN_name</span></strong></span></p>
 
-            </ul>
-        </div>
+							<p><br />
+							<span style="font-size:22px"><strong><span style="color:#d35400">Creditone Visa Full CC_number<br />
+							Creditone MC Full CC_number<br />
+							Amex CC</span></strong></span></p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">BiG UPDATE</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2020-08-27 03:03:49</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p><strong><span style="font-size:22px"><span style="color:#d35400">All banks Fresh, NEW<br />
+							Все банки свежие, новые</span></span></strong></p>
 
+							<p><strong><span style="font-size:22px"><span style="color:#d35400">TD Bank+AN_RN_name<br />
+							Citadel+AN_RN<br />
+							Golden1+AN_RN_name<br />
+							FirstMarkCU+AN_RN<br />
+							FNB+AN_RN<br />
+							FRB+AN_RN<br />
+							Firstcitizens+AN_RN<br />
+							Greenstate+AN_RN<br />
+							Teachers CU (tcunet)+AN_RN<br />
+							Hillsbank+AN_RN<br />
+							Umpaqbank+AN_RN<br />
+							Onpointcu+AN_RN<br />
+							UnifyFCU+AN_RN<br />
+							Citiban+AN_RN<br />
+							UnitedFCU+AN_RN<br />
+							IBC+AN_RN<br />
+							Key+AN_RN_name<br />
+							Santander+AN_RN<br />
+							Personal Savings Amex+AN_RN_name<br />
+							Chartway+AN_RN<br />
+							CUTX+AN_RN<br />
+							Comerica+AN_RN_name<br />
+							CampusCU+AN_RN<br />
+							AppleBank+AN_RN<br />
+							AplusFCU+AN_RN<br />
+							Onenevada+AN_RN<br />
+							gtefinancial+AN_RN_name<br />
+							Fhb+AN_RN_name<br />
+							Vystar+AN_RN<br />
+							Ucbi+AN_RN</span></span></strong></p>
+
+							<p><strong><span style="font-size:22px"><span style="color:#d35400">Amex_CC<br />
+							Creditone Visa_CC<br />
+							Creditone MC_cc<br />
+							Xfinity</span></span></strong></p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">Внимание!</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2019-12-13 09:29:03</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p><strong><span style="font-size:26px"><span style="color:#d35400">Mint убивает акки! Также не оставляйте банки прилинкованными к конторам!</span></span></strong></p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">Канал Telegram</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2018-04-26 11:50:29</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p><span style="font-size:26px"><strong><span style="color:#d35400">Подпишись на обновления</span></strong><br />
+							<a href="https://t.me/dktshop"><u><strong><span style="color:#2980b9">http://t.me/dktshop</span></strong></u></a></span></p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">Инструкция по работе с банком Wells Fargo+AN_RN</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2017-10-17 23:58:21</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p><span style="color:#e74c3c"><u><span style="font-size:20px"><strong>Инструкция по работе с банком Wells Fargo+AN_RN</strong></span></u></span><br />
+							<span style="font-size:18px">Все начинали со всеми известного банка Wells Fargo, с каждым годом банк услиливает защиту и этот год не стал исключением. С недавних пор, Wells Fargo, он же велс, не крепится инстантом в Paypal и другие сервисы, но тем не менее остается лучшим банком на данный момент. В комплекте с аккаунтом идут номер счета аккаунта (A.N) и роутинг (RTN), чтобы вы могли линкануть банк в нужный вам сервис через номера. Если же по какой - либо причине вам попался аккаунт без номеров, обращайтесь в cапорт. Перед линковкой аккаунт нужно проверить на валидность, это можно сделать с USA дедика или сокса, ssh тоннели для этого не подходят!<br />
+							После линковки аккаунта приблизительное время ожидания минидепов 20 часов, заходим в онлайн банк, ловим миники и подтверждаем банк.<br />
+							Гарантия 24ч, как раз хватает, чтобы принять минидепы, хотя сами аккаунты живут гораздо дольше и продолжают жить - даже если становятся невалидными (депы в ваши конторы также доходят). Чем реже посещаете личный кабинет, тем дольше живет ваш аккаунт.</span></p>
+
+							<p><span style="font-size:18px">Замена в следующих случаях:<br />
+							-невалид<br />
+							-прилинкован к paypal<br />
+							-секретка (просит смс при входе в онлайн банк)<br />
+							-баланс аккаунта не соответствует купленному пределу</span></p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">Важная информация!</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2016-06-19 19:08:17</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">Wells Fargo+AN_RN</span></strong> - аккаунты велса с адресом, номерами. К каждому аккаунту прилагается statement из личного кабинета. Вы также можете зайти в онлайн банкинг аккаунта и самостоятельно посмотреть, интересующую вас информацию или посмотреть стейтмент, в случае, если он отсутствует в логе с аккаунтом.<br />
+							Для того, чтобы линкануть аккаунт к пейпалу, прежде всего его нужно проверить на валидность, с чистого сокса или дедика, войти в личный кабинет банка, предварительно IP чекается нулевкой (можно запросить у саппорта). Если же при входе у вас потребует смс, нужно обратиться в сапорт и заменить данный аккаунт. Далее копируем номер и роутинг из лога, либо из личного кабинета БА, указываем в соответствующие поля в paypal, отправляем минидепы и ждем около 20ч, далее ловим их в личном кабинете банка. Важно! чем реже вы входите в личный кабинет, тем дольше живет аккаунт!</span></span></p>
+
+							<p><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><span style="color:#ff0033"><strong>Bank of America+AN_RN</strong></span> &ndash;&nbsp;</span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">&nbsp; login:pass + balance без онлайн банка. Для входа в аккаунт требуется секретный вопрос, ответа на который нет. </span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">В Paypal данный банк крепится минидепами (через акк номер и роут). Миники вы чекаете самостоятельно. Гарантия 12ч после покупки.</span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>Замена: невалид,&nbsp; не соответствие баланса согласно пределам, прилинкован к Paypal.&nbsp; </strong></span></span><span style="font-size:20px"><span style="font-family:Times New Roman,Times,serif"><strong>Paypal linked </strong></span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>означает, что счет уже линкован в палку.</strong></span></span>.</p>
+
+							<p><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">Chase+AN_RN</span></strong> - подходит для контор, где есть возможность привязать аккаунт инстантом, то есть через login:password, включая PayPal. Ответов на секретные вопросы нет! Только логин : пароль, а также известный баланс.<br />
+							<strong>Замена: невалид,&nbsp; не соответствие баланса согласно пределам, прилинкован к Paypal.&nbsp; </strong></span></span><span style="font-size:20px"><span style="font-family:Times New Roman,Times,serif"><strong>Paypal linked </strong></span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>означает, что счет уже линкован в палку.</strong></span></span>.</p>
+
+							<p><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">CreditOne bank</span></strong> - кредитные карты, для линковки в Paypal или другие платежные системы, где не требуется exp date и cvv.</span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">При входе секретка, миники чекаются через определенные сервисы.</span></span></p>
+
+							<p><strong><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">Замена: невалид,&nbsp; не соответствие баланса согласно пределам, карта прилинкована к палке.</span></span></strong></p>
+
+							<p>&nbsp;</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">Merrick Bank_CC</span></strong>- - кредитные карты такие же как и CreditOne, для линковки в Paypal или другие платежные системы, где не требуется exp date и cvv. При входе секретка, миники чекаются через определенные сервисы.</span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">При входе секретка, миники чекаются через определенные сервисы.</span></span></p>
+
+							<p><strong><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">Замена: невалид,&nbsp; не соответствие баланса согласно пределам, карта прилинкована к палке.</span></span></strong></p>
+
+							<p><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">American Express</span></strong> - кредитные карты, для линковки в Paypal или другие платежные системы, где не требуется exp date и cvv.</span></span></p>
+
+							<p><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">Verizon + SQ</span></strong> - реальные USA номера, подходят приема для смс. . Также имеется ответ на секретный вопрос.</span></span></p>
+
+							<p><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">Xfinity(comcast)</span></strong> - реальные USA номера, подходят для&nbsp; приема смс.</span></span></p>
+
+							<p><span style="font-size:14px"><strong>Замена: невалид, не активен номер. Если с вашего сервиса по каким-либо причинам смс не идет, это не заменный случай.</strong></span></p>
+
+							<p>&nbsp;</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">Citizens+AN_RN </span></strong>- аккаунты Citizens bank login:pass + balance без онлайн банка. Для входа в аккаунт требуется секретный вопрос, ответа на который нет. Баланс и транзакции можно чекнуть через фин. сервисы. </span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">В Paypal данный банк крепится минидепами (через акк номер и роут). Миники вы чекаете самостоятельно.</span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>Замена: невалид,&nbsp; не соответствие баланса согласно пределам, прилинкован к Paypal.&nbsp; </strong></span></span><span style="font-size:20px"><span style="font-family:Times New Roman,Times,serif"><strong>Paypal linked </strong></span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>означает, что счет уже линкован в палку.</strong></span></span>.</p>
+
+							<p>&nbsp;</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">SunTrust+AN_RN </span></strong>-&nbsp; аккаунты банка SunTrust без онлайн банка. Линкуется в сервисы, либо через номера, либо через login:pass.</span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">В Paypal данный банк крепится минидепами (через акк номер и роут). Миники вы чекаете самостоятельно.</span></span></p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>Замена: невалид,&nbsp; не соответствие баланса согласно пределам, прилинкован к Paypal.&nbsp; </strong></span></span><span style="font-size:20px"><span style="font-family:Times New Roman,Times,serif"><strong>Paypal linked </strong></span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>означает, что счет уже линкован в палку.</strong></span></span>.</p>
+
+							<p>&nbsp;</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">TD bank+AN_RN </span></strong>-</span></span> аккаунты банка TD bank без онлайн банка. Для входа в аккаунт требуется секретный вопрос, ответа на который нет. Баланс и транзакции можно чекнуть через фин. сервисы.</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">В Paypal данный банк крепится минидепами (через акк номер и роут). Миники вы чекаете самостоятельно.</span></span><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>Замена: невалид,&nbsp; не соответствие баланса согласно пределам, прилинкован к Paypal.&nbsp; </strong></span></span><span style="font-size:20px"><span style="font-family:Times New Roman,Times,serif"><strong>Paypal linked </strong></span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>означает, что счет уже линкован в палку.</strong></span></span>.</p>
+
+							<p>&nbsp;</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong><span style="color:#ff0033">PNC+AN_RN </span></strong>-</span></span> аккаунты банка <strong>PNC.com</strong> без онлайн банка. Для входа в аккаунт требуется секретный вопрос, ответа на который нет. Баланс и транзакции можно чекнуть через фин. сервисы.</p>
+
+							<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">В Paypal данный банк крепится минидепами (через акк номер и роут). Миники вы чекаете самостоятельно.</span></span><br />
+							<span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>Замена: невалид,&nbsp; не соответствие баланса согласно пределам, прилинкован к Paypal.&nbsp; </strong></span></span><span style="font-size:20px"><span style="font-family:Times New Roman,Times,serif"><strong>Paypal linked </strong></span></span><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>означает, что счет уже линкован в палку.</strong></span></span>.</p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">Сортировка аккаунтов</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2016-03-08 16:48:08</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p>Желтым цветом выделены аккаунты, которые уже заюзаны в paypal, можно их использовать для других целей, соответственно их стоимость ниже.</p>
+							</div></div>
+													
+											<div class="head_news">
+												<div class="title"><h5 class="pt20">Правила</h5></div>		
+												<div class="infoRow">
+													<span class="name"><strong>Admin</strong> says:</span>
+													<span class="time">2016-03-08 16:42:49</span>
+												</div>
+												<div class="clear"></div>
+											</div>
+											<div class="text_news"><div><p>Правила покупки в шопе darknet-shop обязательны к прочтению!<br />
+							<br />
+							Весь товар предоставляется лишь в ознакомительных целях, за дальнейшую реализацию данной информации, наш сервис ответственности не несет.<br />
+							Пополнение баланса пользователя возможно следующими платежными системами: Webmoney (WMZ, WMR), Bitcoin.<br />
+							Баланс зачисляется после нажатия кнопки &quot;Проверить транзакции&quot; в системе Webmoney. Bitcoin после 2 конфирма - следуйте инструкциям в разделе пополнения.<br />
+							<span style="font-size:22px"><span style="color:#e74c3c"><strong>Баланс из шопа не выводится.</strong></span></span></p>
+
+							<p><span style="font-size:22px"><span style="color:#e74c3c"><strong>Заявки на замены принимаются в течении 12 часов после покупки! Обязательно должны сопровождаться скриншотом.</strong></span></span></p>
+
+							<p><span style="color:#e74c3c"><span style="font-size:18px"><strong>Для замены аккаунтов, которые уже прилинкованы к платежной системе Paypal, обязательно нужно предоставить скрин </strong></span><u><span style="font-size:24px"><strong>полного экрана</strong></span></u><span style="font-size:18px"><strong>, с отказом в привязке.</strong></span></span><br />
+							<br />
+							Если у вас возникли проблемы с зачислением баланса свяжитесь с администрацией через тикет на сайте.</p>
+							</div></div>
+												</div>
 </div>
 
-<div class="content-bottom-right">
-	<div class="nNote nFailure">
-                <p style="text-align:center;font-weight: bold;font-size:17px;">Замена: невалид,  не соответствие баланса согласно пределам, банк линкован к Paypal</p>
-            </div>
-	<table>
-            <thead>
-            <tr>
+		</div>
 
-                <td style="text-align: center;" width="15%" class="sort_page"><h3>Total Balance</h3></td>
-                <td style="text-align: center;" width="35%"><h3>Info</h3></td>
-				<td style="text-align: center;" width="15%"><h3>Bank name</h3></td>
-				<td style="text-align: center;" width="15%"><h3>Description</h3></td>
-                <td style="text-align: center;" width="5%" class="sort_page"><h3>Holder Name</h3></td>
-                <td style="text-align: center;" width="10%" class="sort_page"><h3>Price</h3></td>
-                <td style="text-align: center;" width="10%"><h3>Buy</h3></td>
-                <td width="5%" class="all_checked"><h3>All</h3></td>
-
-            </tr>
-            </thead>
-            <tbody>
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0474 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2735"><input type="hidden" name="id_buy" value="2735"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2735" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0269 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2736"><input type="hidden" name="id_buy" value="2736"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2736" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0067 $0 <br>Money Market Savings SAVINGS xxxx0266 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2737"><input type="hidden" name="id_buy" value="2737"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2737" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx2935 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2738"><input type="hidden" name="id_buy" value="2738"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2738" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx6798 $0 <br>ATM Rebate Checking CHECKING xxxx5046 $0 <br>ATM Rebate Checking CHECKING xxxx2092 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2739"><input type="hidden" name="id_buy" value="2739"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2739" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx3073 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2741"><input type="hidden" name="id_buy" value="2741"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2741" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0615 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2743"><input type="hidden" name="id_buy" value="2743"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2743" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$0</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0677 $0 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 5$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2744"><input type="hidden" name="id_buy" value="2744"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2744" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$3750.05</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0566 $0 <br>ATM Rebate Checking CHECKING xxxx1845 $3,750.05 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 50$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2747"><input type="hidden" name="id_buy" value="2747"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2747" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$12451.5</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0438 $5,951.52 <br>Money Market Savings SAVINGS xxxx0803 $6,500 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 100$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2746"><input type="hidden" name="id_buy" value="2746"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2746" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$12500</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0008 $12,500 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 100$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2745"><input type="hidden" name="id_buy" value="2745"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2745" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$12676.7</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx9769 $12,676.67 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 100$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2753"><input type="hidden" name="id_buy" value="2753"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2753" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$13190.1</td>
-                    <td style="text-align: center; padding: 5px;">FRB Checking Account CHECKING xxxx1553 $0 <br>FRB Checking Account CHECKING xxxx1008 $13,190.11 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 100$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2754"><input type="hidden" name="id_buy" value="2754"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2754" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$25367.6</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0241 $10,367.33 <br>Money Market Savings SAVINGS xxxx1500 $15,000.31 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 180$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2742"><input type="hidden" name="id_buy" value="2742"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2742" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$34558.3</td>
-                    <td style="text-align: center; padding: 5px;">ATM Rebate Checking CHECKING xxxx0281 $2,522.42 <br>Overdraft Line Of Credit CHECKING xxxx3486 $0 <br>Simplified Business Checking CHECKING xxxx0478 $18,798.97 <br>Simplified Business Checking CHECKING xxxx0211 $13,236.88 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 180$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2750"><input type="hidden" name="id_buy" value="2750"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2750" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                            <tr>
-
-                    <td style="text-align: center; padding: 5px;">$59877.7</td>
-                    <td style="text-align: center; padding: 5px;">Regular Passbook SAVINGS xxxx1584 $326.19 <br>Beckwood Investments CHECKING xxxx3664 $31,931.85 <br>ATM Rebate Checking CHECKING xxxx2779 $27,619.69 <br></td>
-					<td style="text-align: center; padding: 5px;">firstrepublic.com</td>
-					<td style="text-align: center; padding: 5px;">AN_RN</td>
-                    <td style="text-align: center; padding: 5px;">No</td> 
-                    <td style="text-align: center;padding: 0px 0px;">SALE: 300$</td>
-                    <td style="text-align: center;padding: 0px 0px;"><form method="post" action="/banks.php" name="buy2740"><input type="hidden" name="id_buy" value="2740"><input type="submit" class="mybutton_black" value="Buy" style="cursor: pointer;"></form></td>
-                    <td style="vertical-align: middle; text-align: center;"><input type="checkbox" name="banks[]" value="2740" class="banks_id checkbox"><input type="hidden" value="0" class="status_checked"></td>
-                </tr>
-
-                        </tbody>
-	</table>
-		        <div class="listing">
-            <div class="paginate paging_full_numbers">
-                <a class="paginate_active" href="#">1</a> <a class="paginate_button" href="/banks.php?page=1&amp;ipp=All&amp;bank=firstrepublic.com">All</a> 
-
-            </div>
-        </div>
-        <div class="add_to_cart_all"><input type="button" class="mybutton_black banks_add_to_cart" value="Add to Cart" style="cursor: pointer;"></div>
+	</div>
 </div>
-    <div class="clear"></div>
-</div>
-<!-- Content ends -->
-
-</div>
- </div>
-<div class="footer">
+	<div class="footer">
    	  <div class="wrap">	
 			 <div class="copy_right">
 				<p>Copy rights (c). All rights Reseverd </p>
 		   </div>	
 		   <div class="footer-nav">
-		   	<ul>
-		   		
-		   		
-		   		
-		   		<!--<li><a href="#">JID: wells-fargo@exploit.im</a></li>-->
-               <!-- <li><a href="#">ICQ: 695285868</a></li>-->
-		   	</ul>
+				<ul>
+					
+					
+					
+					<!--<li><a href="#">JID: wells-fargo@exploit.im</a></li>-->
+				<!-- <li><a href="#">ICQ: 695285868</a></li>-->
+				</ul>
 		   </div>		
         </div>
     </div> 
 	
-    <script type="text/javascript" src="js/navigation.js?ver=1.07"></script>
-	   
+	<script type="text/javascript" src="http://localhost:8000/assetss/js/navigation.js?ver=1.07"></script>
+		   
 </body>
 </html>
-
