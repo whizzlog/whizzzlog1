@@ -1,0 +1,51 @@
+body{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: #23272a;
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+.container{
+	max-width: 400px;
+	margin: 0 auto;
+	text-align:center;
+}
+#usualValidate{
+	max-width: 400px;
+	padding: 19px 29px 29px;
+	margin: 0 auto 20px;
+	background: #e44f2b;
+	border-bottom: 1px solid #DB3C15;
+}
+h2{
+	color: #FFF;
+}
+.g-recaptcha{
+	width: 304px;
+	margin: 0 auto;
+}
+
+
+#btn_lex1 {
+
+ text-decoration:none; 
+ text-align:center; 
+ padding:11px 110px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:7px;
+ -moz-border-radius:7px; 
+ border-radius: 7px; 
+ font:20px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#141717; 
+ background-color:#f7f4f4; 
+ background-image: -moz-linear-gradient(top, #f7f4f4 0%, #e8e8e8 100%); 
+ background-image: -webkit-linear-gradient(top, #f7f4f4 0%, #e8e8e8 100%); 
+ background-image: -o-linear-gradient(top, #f7f4f4 0%, #e8e8e8 100%); 
+ background-image: -ms-linear-gradient(top, #f7f4f4 0% ,#e8e8e8 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8e8e8', endColorstr='#e8e8e8',GradientType=0 ); 
+ background-image: linear-gradient(top, #f7f4f4 0% ,#e8e8e8 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #a5a6b5; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #a5a6b5;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #a5a6b5;  
+  
+  }
