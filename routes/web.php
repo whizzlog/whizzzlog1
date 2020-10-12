@@ -29,6 +29,8 @@ Route::group(['prefix' => 'en','middleware'=> ['auth']], function () {
     Route::get('/help','HomeController@help');
     Route::get('/banklogs/create','LogsController@create')->middleware('role:admin');
     Route::post('/banklogs/create','LogsController@add')->name('logs.create')->middleware('role:admin');
+    Route::get('/deposits','DepositController@index');
+     Route::get('/deposit','DepositController@deposit');
 
     Route::get('/bank/create','BankController@create')->middleware('role:admin');
     Route::post('/bank/create','BankController@add')->name('bank.create')->middleware('role:admin');

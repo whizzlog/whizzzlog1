@@ -3,7 +3,7 @@
 <!-- Mirrored from darknet-shop.cc/login.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 01 Oct 2020 12:15:58 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>DarkNet-Shop.CC</title>
+<title>Owl Shop</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel='stylesheet' type='text/css'>
@@ -22,8 +22,8 @@
 		        <input type="text" name="email" id="user_name" placeholder="Your email" class="required loginUsername @error('email') is-invalid @enderror" style="width: 265px;"/>
         <input type="password" name="password" id="user_password" placeholder="Password" class="loginPassword required @error('password') is-invalid @enderror" style="width: 265px; margin-bottom: 0px;"/>
       
-	   <div style="display: inline-block;">{!! captcha_image_html('ExampleCaptcha') !!}</div> 
-  <input type="text" id="CaptchaCode" name="CaptchaCode" placeholder="Enter Captcha Code"  class="required loginUsername" style="width: 265px; margin-bottom: 0px;">
+	   <div style="display: inline-block; margin-top:5px;">{!! captcha_image_html('ExampleCaptcha') !!}</div> 
+  <input type="text" id="CaptchaCode" name="CaptchaCode" placeholder="Enter Captcha Code"  class="required loginUsername" style="width: 200px; margin-bottom: 0px;">
 	   <!--<div id="nocaptcha" style="width: 265px; margin-bottom: 15px; margin-left: 20px;"></div>-->
 	  
         <div class="logControl">

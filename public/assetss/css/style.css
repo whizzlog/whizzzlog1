@@ -1094,7 +1094,7 @@ thead {
 .product-tags .button a {
 	font-size:1em;
 	padding:10px 15px;
-	background:#E4292F;
+	background:#152ddb;
 	color: #FFF;
 	text-decoration: none;
 	outline: 0;
@@ -1125,7 +1125,7 @@ thead {
 }
 .review h4 a:hover{
 	text-decoration:none;
-	color:#E4292F;
+	color:#152ddb;
 }
 .review ul{
 	margin-top:10px;
@@ -1161,7 +1161,7 @@ thead {
 	font-family :verdana, arial, helvetica, helve, sans-serif;
 }
 .your-review label span.red{
-	color:#CD1F25;
+	color:#0041d3;
 	display:inline;
 }
 .your-review input[type="text"],.your-review textarea{
@@ -1184,7 +1184,7 @@ thead {
     font-size:1em;
 	padding:10px 15px;
 	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
-	background:#E4292F;
+	background:#152ddb;
 	color: #FFF;
 	text-decoration: none;
 	border:none;
@@ -1233,7 +1233,7 @@ thead {
 	margin-top:20px;
 }
 .community-poll p {
-	color: #CD1F25;
+	color: #0041d3;
 	font-size: 0.95em;
 	padding:5px  0;
 }
@@ -1937,3 +1937,7 @@ table tbody td{
 .meny-hover-parent2:hover .menyhover2{
 	display: flex;
 }
+
+/* span{
+	color: #0041d3;
+} */

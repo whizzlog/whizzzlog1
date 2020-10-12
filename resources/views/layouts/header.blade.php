@@ -53,18 +53,16 @@
 							<ul class="menyhover2">
 								
 								<li>
-									<a href="/deposit_history.php">Deposit history</a>
+									<a href="{{ url('/en/deposits') }}">Deposit history</a>
 									
 								</li>
 							
 								
 								<li>
-									<a href="#">Settings</a>
+									<a href="{{ url('/en/settings') }}">Settings</a>
 									
 								</li>
-								<li>
-									<a href="/">News</a>
-								</li>
+								
 								<li>
 									<a href="#" onclick="event.preventDefault();
 									document.getElementById('logout-form').submit();">Logout</a>

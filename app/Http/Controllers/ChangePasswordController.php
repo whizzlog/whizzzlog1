@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Bank;
 use App\Http\Requests\PasswordChange;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
@@ -9,7 +10,10 @@ use Illuminate\Support\Facades\Hash;
 class ChangePasswordController extends Controller
 {
     public function index(){
-        return view('user.settings');
+         $banks = Bank::all();
+        return view('user.settings',array(
+            'banks' => $banks
+        ));
     }
 
      public function password(PasswordChange $request){

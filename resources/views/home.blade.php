@@ -9,88 +9,8 @@
 
         <div class="news">
             			
-                <div class="head_news">
-					<div class="title"><h5 class="pt20"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UPDATE</font></font></h5></div>		
-                    <div class="infoRow">
-                        <span class="name"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admin</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> says: </font></font></span>
-                        <span class="time"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2020-09-10 22:39:47</font></font></span>
-                    </div>
-					<div class="clear"></div>
-				</div>
-											<div class="text_news"><div><p><span style="font-size:22px"><strong><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chartway + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Citadelbanking + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							FirstCitizens + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							the IBC + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							UnifyFCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Asbhawaii + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							CampusCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							the FNB + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Vystar + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Santander are + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Comerica + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Gtefinancial + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							FHB + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							FNBO + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							the Simple + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							United the Heritage + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Visions FCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Travis CU + RN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Summit Community bank + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Key + AN_RN_name</font></font></span></strong></span></p>
-
-							<p><br>
-							<span style="font-size:22px"><strong><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Creditone Visa Full CC_number </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Creditone MC Full CC_number </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Amex CC</font></font></span></strong></span></p>
-							</div></div>
-													
-											<div class="head_news">
-												<div class="title"><h5 class="pt20"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BiG UPDATE</font></font></h5></div>		
-												<div class="infoRow">
-													<span class="name"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admin</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> says: </font></font></span>
-													<span class="time"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2020-08-27 03:03:49</font></font></span>
-												</div>
-												<div class="clear"></div>
-											</div>
-											<div class="text_news"><div><p><strong><span style="font-size:22px"><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">All banks Fresh, NEW </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							All banks are fresh, new</font></font></span></span></strong></p>
-
-							<p><strong><span style="font-size:22px"><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TD Bank + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Citadel + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Golden1 + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							FirstMarkCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							FNB + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							FRB + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Firstcitizens + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Greenstate + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Teachers CU (tcunet) + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Hillsbank + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Umpaqbank + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Onpointcu + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							UnifyFCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Citiban + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							UnitedFCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							IBC + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Key + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Santander + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Personal Savings Amex + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Chartway + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							CUTX + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Comerica + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							CampusCU + AN_RN</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							AppleBank + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							AplusFCU + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Onenevada + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							gtefinancial + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Fhb + AN_RN_name </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Vystar + AN_RN </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Ucbi + AN_RN</font></font></span></span></strong></p>
-
-							<p><strong><span style="font-size:22px"><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Amex_CC </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Creditone Visa_CC </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Creditone MC_cc </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-							Xfinity</font></font></span></span></strong></p>
-							</div></div>
+                						
+							
 													
 											<div class="head_news">
 												<div class="title"><h5 class="pt20"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Attention!</font></font></h5></div>		
@@ -100,7 +20,7 @@
 												</div>
 												<div class="clear"></div>
 											</div>
-											<div class="text_news"><div><p><strong><span style="font-size:26px"><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mint is killing Akki! </font><font style="vertical-align: inherit;">Also, don't leave banks linked to offices!</font></font></span></span></strong></p>
+											<div class="text_news"><div><p><strong><span style="font-size:26px"><span ><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mint is killing Akki! </font><font style="vertical-align: inherit;">Also, don't leave banks linked to offices!</font></font></span></span></strong></p>
 							</div></div>
 													
 											<div class="head_news">
@@ -111,7 +31,7 @@
 												</div>
 												<div class="clear"></div>
 											</div>
-											<div class="text_news"><div><p><span style="font-size:26px"><strong><span style="color:#d35400"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Subscribe to updates </font></font></span></strong><br>
+											<div class="text_news"><div><p><span style="font-size:26px"><strong><span ><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Subscribe to updates </font></font></span></strong><br>
 							<a href="https://t.me/dktshop"><u><strong><span style="color:#2980b9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://t.me/dktshop</font></font></span></strong></u></a></span></p>
 							</div></div>
 													
@@ -123,7 +43,7 @@
 												</div>
 												<div class="clear"></div>
 											</div>
-											<div class="text_news"><div><p><span style="color:#e74c3c"><u><span style="font-size:20px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Instructions for working with Wells Fargo bank + AN_RN</font></font></strong></span></u></span><br>
+											<div class="text_news"><div><p><span ><u><span style="font-size:20px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Instructions for working with Wells Fargo bank + AN_RN</font></font></strong></span></u></span><br>
 							<span style="font-size:18px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Everyone started with the well-known Wells Fargo bank, every year the bank increases its protection and this year was no exception. </font><font style="vertical-align: inherit;">Recently, Wells Fargo, aka led, has not been instantiated into Paypal and other services, but nevertheless remains the best bank at the moment. </font><font style="vertical-align: inherit;">The account comes with an account number (AN) and routing (RTN), so that you can link the bank to the service you need through the numbers. </font><font style="vertical-align: inherit;">If, for any reason, you come across an account without numbers, please contact the airport. </font><font style="vertical-align: inherit;">Before linking, the account needs to be checked for validity, this can be done with USA Dedicated or Sox, ssh tunnels are not suitable for this! </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 							After linking the account, the approximate waiting time for minideps is 20 hours, we go to the online bank, catch the minikis and confirm the bank.</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 							The 24-hour guarantee is just enough to accept mini-deps, although the accounts themselves live much longer and continue to live - even if they become invalid (deposits also reach your offices). </font><font style="vertical-align: inherit;">The less often you visit your personal account, the longer your account lives.</font></font></span></p>
@@ -238,11 +158,11 @@
 							All goods are provided for informational purposes only, for the further implementation of this information, our service is not responsible. </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 							Replenishment of the user's balance is possible by the following payment systems: Webmoney (WMZ, WMR), Bitcoin. </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 							The balance is credited after clicking the "Check transactions" button in the Webmoney system. </font><font style="vertical-align: inherit;">Bitcoin after 2nd confirmation - follow the instructions in the deposit section. </font></font><br>
-							<span style="font-size:22px"><span style="color:#e74c3c"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The balance is not displayed from the shop.</font></font></strong></span></span></p>
+							<span style="font-size:22px"><span ><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The balance is not displayed from the shop.</font></font></strong></span></span></p>
 
-							<p><span style="font-size:22px"><span style="color:#e74c3c"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Replacement applications are accepted within 12 hours after purchase! </font><font style="vertical-align: inherit;">Must be accompanied by a screenshot.</font></font></strong></span></span></p>
+							<p><span style="font-size:22px"><span ><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Replacement applications are accepted within 12 hours after purchase! </font><font style="vertical-align: inherit;">Must be accompanied by a screenshot.</font></font></strong></span></span></p>
 
-							<p><span style="color:#e74c3c"><span style="font-size:18px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To replace accounts that are already linked to the Paypal payment system, you must provide a </font></font></strong></span><u><span style="font-size:24px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">full screen screen</font></font></strong></span></u><span style="font-size:18px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> with a refusal to link. </font></font></strong></span></span><br>
+							<p><span ><span style="font-size:18px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To replace accounts that are already linked to the Paypal payment system, you must provide a </font></font></strong></span><u><span style="font-size:24px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">full screen screen</font></font></strong></span></u><span style="font-size:18px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> with a refusal to link. </font></font></strong></span></span><br>
 							<br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 							If you have any problems with crediting the balance, please contact the administration through a ticket on the website.</font></font></p>
 							</div></div>
